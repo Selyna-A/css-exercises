@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddNum {
+  font-family: Arial;
+  background-color: rgb(255, 144, 162);
+}
+
+.oddSizeUp {
+  font-size: 25px;
+}
+
+#twoID {
+  color: blue;
+  font-size: 40px;
+}
+
+#fourID {
+  background-color: rgb(136, 252, 136);
+  font-size: 25px;
+  font-weight: bold;
+}
