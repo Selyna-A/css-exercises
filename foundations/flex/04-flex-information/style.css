@@ -24,3 +24,21 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* my solution */
+
+.Header {
+  display: flex;
+  justify-content: center;
+}
+
+.Plants {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-top: 32px;
+}
+
+.plantOne .plantTwo .plantThree .plantFour {
+  padding: 52px;
+}
